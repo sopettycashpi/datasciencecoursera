@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.9.1">
+  <compound refid="_hello_world_8md" kind="file"><name>HelloWorld.md</name>
+  </compound>
+  <compound refid="md__hello_world" kind="page"><name>md_HelloWorld</name>
+  </compound>
+</doxygenindex>
